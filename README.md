@@ -1,2 +1,6 @@
 # CONTROLLER
- 
+ SIMPLE CONTROLLER FOR GIMIK ROBOT...
+
+![737b4b80-9367-414a-990c-f5db0e10b1cb](https://github.com/SerLeWen/CONTROLLER/assets/153931710/d86ad33f-4bed-4e87-9b0f-3d467a27e956)
+
+
